@@ -1,5 +1,5 @@
 function duan(){
-    console.log("duadddddn");
+    console.log("asdf");
 }
 
 hexo.extend.generator.register('duan',function(locals) {
