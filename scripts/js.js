@@ -14,5 +14,5 @@ var xlsx = require('node-xlsx');
 // }
 
 hexo.extend.generator.register('duan',function(locals) {
-//   duan();
+//   duan();dddd
 })
